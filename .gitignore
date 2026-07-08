@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+*.tmp
+
+# Virtual environments — readers create their own from requirements.txt
+.venv/
+venv/
+env/
+build/
+
+# Dataset caches (downloaded at runtime; CEO csv is committed)
+data/*.parquet
+data/openml_*/
+
+# Jupyter
+*.nbconvert.ipynb
+
+# OS
+.DS_Store
+Thumbs.db

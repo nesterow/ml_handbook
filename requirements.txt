@@ -1,0 +1,33 @@
+# ML Practical Handbook — pinned dependencies
+# Python 3.12 (created with: python3 -m venv .venv)
+# Install:  .venv/bin/pip install -r requirements.txt
+#
+# These versions are what the notebooks were built and executed against.
+
+# --- Core data science ---
+numpy==2.5.1
+pandas==3.0.3
+scipy==1.18.0
+scikit-learn==1.9.0
+statsmodels==0.14.6
+
+# --- Plotting / viz ---
+matplotlib==3.11.0
+seaborn==0.13.2
+plotly==6.8.0
+
+# --- Gradient boosting (used in the Random Forests comparison) ---
+xgboost==3.3.0
+lightgbm==4.6.0
+
+# --- Jupyter toolchain ---
+jupyterlab==4.6.1
+ipykernel==7.3.0
+nbformat==5.10.4
+nbconvert==7.17.1
+
+# --- Optional: real deep-learning frameworks ---
+# The Neural Networks notebook deliberately uses scikit-learn's MLPClassifier so
+# nothing heavy is required. Uncomment below only if you want to go further.
+# torch==2.4.0
+# tensorflow==2.17.0
