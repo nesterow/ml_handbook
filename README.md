@@ -1,7 +1,7 @@
 # ML Practical Handbook
 
 A practical, Python/Jupyter handbook built from four courses: **Machine Learning**
-(Dr. Nicholas Harkiolakis, BSC508), **Fundamentals of Data Science** (Rashad Aouf, BSC603, CSI505),
+(Dr. Nicholas Harkiolakis, BSC508), **Fundamentals of Data Science** (Dr. Rashad Aouf, BSC603, CSI505),
 **Neural Networks** and **Deep Learning** (both Dr. Jeremy Scerri, BSC503, BSC701). The textbook
 *Hands-On Machine Learning with R* (Boehmke & Greenwell) is used as reference
 material only — the handbook is Python, not R.

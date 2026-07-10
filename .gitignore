@@ -22,3 +22,9 @@ data/openml_*/
 # OS
 .DS_Store
 Thumbs.db
+
+# Plans — local working/design docs, not part of the committed handbook
+plans/
+
+# Scratchbooks — exploratory notebooks for project work, not handbook material
+scratchbooks/
